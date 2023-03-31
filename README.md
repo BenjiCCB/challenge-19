@@ -46,7 +46,7 @@ Notes:
 * The app's ASCII-art main display will show on intital site visit, or after clearing site data from the browser's console
 * The local, downloaded version of the app will stay in sync with the browser version
 * On download, the app will no longer display the install prompt, unless/until the app is uninstalled locally
-* To uninstall the local app, simple click 3-dot menu in the top right, and select uninstall
+* To uninstall the local app, simply click the 3-dot menu in the top right, and select uninstall
 
 ---
 
