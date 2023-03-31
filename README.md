@@ -8,7 +8,7 @@ View below for more info, as well as the github repo, the heroku link, and a scr
 
 Github: [link here](https://github.com/BenjiCCB/challenge-19)
 
-Heroku: [link here](https://www.youtube.com/watch?v=CU9BR6PX6kk)
+Heroku: [link here](https://ccb19-jate.herokuapp.com)
 
 ![screenshot](./client/src/images/appshot.png)
 
@@ -43,8 +43,9 @@ To install, a user must run npm install on the top level package.json, as well a
 Once a user's application is running, they can use the main interface to add or remove text.  On clicking off the main window, changes are saved to the browser's IndexedDB database to store across page sessions.  A user can also download the app by hitting the install button, which will create a local version the progressive web app to use offline and otherwise
 
 Notes:
+* The app's ASCII-art main display will show on intital site visit, or after clearing site data from the browser's console
 * The local, downloaded version of the app will stay in sync with the browser version
-* On download, the app will no longer display the install prompt
+* On download, the app will no longer display the install prompt, unless/until the app is uninstalled locally
 * To uninstall the local app, simple click 3-dot menu in the top right, and select uninstall
 
 ---
